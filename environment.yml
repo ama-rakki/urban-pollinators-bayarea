@@ -1,0 +1,19 @@
+name: inat-pollinators
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - geopandas
+  - shapely
+  - requests
+  - tqdm
+  - rasterio
+  - pyproj
+  - contextily
+  - scikit-bio
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - jupyterlab

@@ -1,0 +1,24 @@
+General Dataset Summary
+====================
+                  id        date          lat          lon           taxon        common_name          user
+count   4.000000e+03        4000  4000.000000  4000.000000            4000               3866          4000
+unique           NaN         201          NaN          NaN              71                 62          1363
+top              NaN  2025-04-28          NaN          NaN  Apis mellifera  Western Honey Bee  silveradojim
+freq             NaN         145          NaN          NaN            1592               1592           314
+mean    2.854373e+08         NaN    37.830501  -122.082701             NaN                NaN           NaN
+std     8.974795e+06         NaN     0.449892     0.327565             NaN                NaN           NaN
+min     2.713290e+08         NaN    36.902813  -122.999112             NaN                NaN           NaN
+25%     2.785268e+08         NaN    37.442337  -122.278424             NaN                NaN           NaN
+50%     2.844178e+08         NaN    37.805942  -122.093395             NaN                NaN           NaN
+75%     2.915155e+08         NaN    38.247076  -121.890239             NaN                NaN           NaN
+max     3.066537e+08         NaN    38.599701  -121.000223             NaN                NaN           NaN
+
+Missing Values:
+id               0
+date             0
+lat              0
+lon              0
+taxon            0
+common_name    134
+user             0
+dtype: int64
