@@ -19,16 +19,20 @@ Run these scripts in order:
 ```bash
 python src/01_download.py
 ```
+
     2. Clean the data 
 ```bash
 python src/02_clean_enhanced.py
 ```
+
     3. Generate Summary statistics and graphs
 ```bash
 python src/03_eda_report.py
 ```
+
     4. Generate Interactive maps
 ```bash
 python src/07_super_interactive.py
 ```
+
     5. View outputs: cleaned datasets are saved in the `data_clean` folder. Summary plots and charts are saved in the `reports` folder. Interactive maps are saved in the `figures` folder
